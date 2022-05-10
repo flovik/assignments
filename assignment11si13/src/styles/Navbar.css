@@ -1,0 +1,25 @@
+.nav-center {
+  background-color: rgb(255, 237, 194);
+}
+
+.nav-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.logo {
+  height: 60px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#sub_button {
+  display: block;
+  background: #222;
+  color: #fff;
+  border-radius: 3px;
+  padding: .3rem;
+  display: block;
+}
